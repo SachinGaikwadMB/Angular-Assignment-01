@@ -1,0 +1,57 @@
+<!-- Nav Bar with Header  -->
+<nav class="navbar navbar-light bg-dark">
+  <div class="container-fluid">
+    <a routerLink="/">
+      <button type="button" class="btn btn-success">Home</button>
+    </a>
+
+    <h1 style="color: aliceblue">Product Details</h1>
+    <div class="d-flex">
+      <a routerLink="/product-list">
+        <button type="button" class="btn btn-success">Product List</button>
+      </a>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid banner p-4">
+  <div class="text-center col-md-offset-4 mt-4 p-4" style="background: white">
+    <table class="table table-borderless h3 p-3 text-dark text-justify">
+      <tbody>
+          <tr>
+              <td>Product ID</td>
+    <td>:&nbsp;&nbsp;{{productData.id }}</td>
+  </tr>
+  <tr>
+      <td>Product Name</td>
+      <td>:&nbsp;&nbsp;{{ productData.name}}</td>
+  </tr>
+  <tr>
+    <td>Category</td>
+    <td>:&nbsp;&nbsp;{{ productData.category }}</td>
+  </tr>
+  <tr>
+      <td>Price</td>
+      <td>:&nbsp;&nbsp;{{ productData.price }}</td>
+  </tr>
+  <tr>
+      <td>Serial Number/Model Number</td>
+      <td>:&nbsp;&nbsp;{{ productData.serialNumber }}</td>
+  </tr>
+  <tr>
+      <td>Release Date</td>
+      <td>:&nbsp;&nbsp;{{ productData.releaseDate }}</td>
+  </tr>
+  <tr>
+      <td>Stock Units</td>
+      <td>:&nbsp;&nbsp;{{ productData.stockUnits }}</td>
+  </tr>
+  <tr>
+      <td>Discription</td>
+      <td>:&nbsp;&nbsp;{{ productData.description }}</td>
+  </tr>
+</tbody>
+</table>
+   
+  </div>
+</div>

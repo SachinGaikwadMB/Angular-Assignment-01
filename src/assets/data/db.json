@@ -1,0 +1,125 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "productId": "A2",
+      "name": "SamSung TV",
+      "category": "TV",
+      "price": "11199.89",
+      "stockUnits": "20",
+      "serialNumber": "TV123",
+      "releaseDate": "20-1-2022",
+      "description": "five start rated product"
+    },
+    {
+      "id": 3,
+      "productId": "A3",
+      "name": "Redmi 9 pro",
+      "category": "electronics",
+      "price": "14499.89",
+      "stockUnits": "20",
+      "serialNumber": "Xioami123",
+      "releaseDate": "10-12-2019",
+      "description": "five start rated product"
+    },
+    {
+      "id": 4,
+      "productId": "A4",
+      "name": "Laptop",
+      "category": "electronics",
+      "price": "66749.89",
+      "stockUnits": "20",
+      "serialNumber": "Dell123",
+      "releaseDate": "02-12-2022",
+      "description": "five start rated product"
+    },
+    {
+      "id": 5,
+      "productId": "A5",
+      "name": "HP laptop",
+      "category": "electronics",
+      "price": "58499.89",
+      "stockUnits": "20",
+      "serialNumber": "HP420",
+      "releaseDate": "20-1-2018",
+      "description": "five start rated product"
+    },
+    {
+      "id": 6,
+      "productId": "A6",
+      "name": "Apple",
+      "category": "electronics",
+      "price": "50675.89",
+      "stockUnits": "20",
+      "serialNumber": "Apple534",
+      "releaseDate": "20-12-2015",
+      "description": "five start rated product"
+    },
+    {
+      "productId": "A8",
+      "name": "Mobile",
+      "category": "Phone",
+      "price": "49000.500",
+      "serialNumber": "wfad",
+      "releaseDate": "2022-04-16",
+      "stockUnits": "7",
+      "description": "best",
+      "id": 10
+    },
+    {
+      "productId": "A3",
+      "name": "laptop",
+      "category": "Phone",
+      "price": "50000",
+      "serialNumber": "hp120",
+      "releaseDate": "2022-04-19",
+      "stockUnits": "65",
+      "description": "work",
+      "id": 13
+    },
+    {
+      "productId": "A10",
+      "name": "One plus 7",
+      "category": "Phone",
+      "price": "49000.500",
+      "serialNumber": "App123",
+      "releaseDate": "2022-04-08",
+      "stockUnits": "1",
+      "description": "stock is limited",
+      "id": 14
+    },
+    {
+      "productId": "OppA33",
+      "name": "Opp Smart phone",
+      "category": "Phone",
+      "price": "15000",
+      "serialNumber": "A33",
+      "releaseDate": "2022-04-02",
+      "stockUnits": "50",
+      "description": "Oppo Camera Phone",
+      "id": 15
+    },
+    {
+      "productId": "RealmeA12",
+      "name": "Realme",
+      "category": "Phone",
+      "price": "14999.99",
+      "serialNumber": "A12",
+      "releaseDate": "2022-04-02",
+      "stockUnits": "25",
+      "description": "Camera Phones",
+      "id": 16
+    },
+    {
+      "productId": "SamsungTv123",
+      "name": "Samsung TV",
+      "category": "Tv",
+      "price": "49000.500",
+      "serialNumber": "New123",
+      "releaseDate": "2022-04-02",
+      "stockUnits": "30",
+      "description": "samsung Tv ",
+      "id": 17
+    }
+  ]
+}
